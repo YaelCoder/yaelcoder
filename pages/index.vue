@@ -1,5 +1,6 @@
 <template>
   <NuxtLayout>
+    <Loader />
     <v-card loading title="YaelCoder" subtitle="Mi portafolio" text="Esta pagina se encuentra en construcción." variant="outlined" class="v-card">
       <v-card-actions>
         <v-btn>Esperar</v-btn>
